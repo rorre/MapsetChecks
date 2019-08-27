@@ -4,3 +4,6 @@
 [submodule "MapsetParser"]
 	path = MapsetParser
 	url = https://github.com/Naxesss/MapsetParser
+[submodule "MapsetVerifierFramework"]
+	path = MapsetVerifierFramework
+	url = https://github.com/rorre/MapsetVerifierFramework
